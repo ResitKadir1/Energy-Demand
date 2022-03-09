@@ -1,2 +1,4 @@
 # Energy-Demand prediction With Custom LSTM 
-![alt text](model/model2.html)
+![Custom LSTM ](img/Model_prediction.png)
+
+{% include img/model2.html %}
